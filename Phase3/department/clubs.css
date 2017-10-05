@@ -22,3 +22,41 @@ body main {
     width: 90%;
     height: 100%;
 }
+
+ul {
+    list-style-type: none;
+}
+
+/* Month header */
+.clubs {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.clubs .club {
+    font-size: 150%;
+}
+
+.clubs .club img {
+    width: 50%;
+}
+
+/* Previous button inside month header */
+.clubs .prev {
+    float: left;
+    padding-top: 13%;
+    font-size: 500%;
+}
+
+/* Next button */
+.clubs .next {
+    float: right;
+    padding-top: 13%;
+    font-size: 500%;
+}
+
+.startClub {
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
