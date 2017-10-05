@@ -86,3 +86,7 @@ header {
     word-wrap: break-word;
     font-size: 90%;
 }
+.vnavbar .vdropdown .vdropdown-content p {
+    list-style: none;
+    padding: 0;
+}

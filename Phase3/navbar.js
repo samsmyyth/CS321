@@ -28,7 +28,7 @@ document.write('\
 				<i class="fa fa-caret-down"></i>\
 			</button>\
 			<div class="dropdown-content">\
-				<a href="department/map.html" target="_parent">Map</a>\
+				<a href="contact.html" target="_parent">Map</a>\
 				<a href="department/equipment.html" target="_parent">Equipment</a>\
 				<a href="department/clubs.html" target="_parent">Clubs</a>\
 				<a href="department/lab.html" target="_parent">Lab Policy</a>\
