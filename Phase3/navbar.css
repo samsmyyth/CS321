@@ -48,6 +48,7 @@ header {
 
 .navbar .imgContainer {
     padding: 2.5px 5px 2.5px 5px;
+    border-right: 1px solid #444;
 }
 
 .navbar a img {
@@ -59,6 +60,7 @@ header {
 .dropdown {
     float: left;
     overflow: hidden;
+    border-right: 1px solid #444;
 }
 
 .dropdown .dropbtn {
