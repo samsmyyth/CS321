@@ -69,7 +69,7 @@ document.write('\
 				<i class="fa fa-caret-down"></i>\
 			</button>\
 			<div class="dropdown-content">\
-				<a href="undergrad/cirriculum.html" target="_parent">Cirriculum</a>\
+				<a href="undergrad/courses.html" target="_parent">Courses</a>\
 				<a href="undergrad/program.html" target="_parent">Program Info</a>\
 				<a href="undergrad/tutoring.html" target="_parent">Tutoring</a>\
 				<a href="undergrad/financial.html" target="_parent">Financial Aid</a>\
