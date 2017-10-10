@@ -12,6 +12,7 @@ body {
     border: 0;
     width: 100%;
     height: 100%;
+
 }
 
 body main {
@@ -22,5 +23,49 @@ body main {
     border: 0;
     width: 90%;
     height: 100%;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+h1 {
+    text-align: left;
+}
+.description {
+    width: 50%;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    margin:2%;
+   
+}
+.pictureList {
+    font-size: 100%;
+    float:right;
+    width: 40%;
+    position: relative;
+    margin: 2%;
+    border-style: solid;
+    border-width: 1px;
+}
+.emereti {
+    overflow: visible;
+    height: 50%;
+    width: 80%;
+    margin: 2%;
+    background: white;
+}
+.notSelected {
+    height: 30%;
+    width: 30%;
+    margin:2%;
+}
+.selected {
+    height: 40%;
+    width: 40%;
+    border-style: solid;
+    border-width: 1px;
+    margin: 2%;
+}
+.selectedName {
+    font-size: 2em;
+    font-weight: bold;
+    color: #C42D2D;
 }
